@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imsachin49&label=Profile%20views&color=0e75b6&style=flat" alt="imsachin49" /> </p>
 
-- 🔭 I’m currently working on **Chat Application**
+- 🔭 I’m currently working on **Full stack Projects.**
 
-- 🌱 I’m currently learning **Backend-as-a-Service (Baas)**
+- 🌱 I’m currently learning **Next.js**
 
 - 💬 Ask me about **reactJs, NodeJs**
 
