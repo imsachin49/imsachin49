@@ -44,7 +44,7 @@
     <img alt="Redis" src="https://img.shields.io/badge/Redis-darkred?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
 
-## 👨‍💻 My Coding Profiles:
+<!-- ## 👨‍💻 My Coding Profiles:
 <p align="left">
   <a href="https://leetcode.com/Sachin5115/" target="_blank">
       <img src="https://img.shields.io/badge/Leetcode-white?style=for-the-badge&logo=leetcode&logoColor=D14836?" align="center" alt="Leetcode" height=40 />
@@ -52,7 +52,7 @@
   <a href="https://auth.geeksforgeeks.org/user/sachin5115" target="_blank">
       <img src="https://img.shields.io/badge/Geeksforgeeks-white?style=for-the-badge&logo=geeksforgeeks&logoColor=339933" align="center" alt="GeeksForGeeks" height=40 />
   </a>
-</p>
+</p> -->
 
 ## 🌐 Let's Connect:
 
