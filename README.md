@@ -3,11 +3,11 @@
 
 ## <img src="https://em-content.zobj.net/source/skype/289/man-technologist_1f468-200d-1f4bb.png" height="30px" width="30px" align="center"/> What I'm upto:
 
-- 💪 Proficient in C++ and Javascript Programming Languages
-- 🌐 Learning Data Structures and Cloud Technologies
-- 🤝 Looking to help and collaboration with **Community Building, Code Projects & Open Source** :octocat:
-- 👥 Fascinated about tech communities
-- 💪 Do talk about DSA and Coding contests
+💪 Proficient in C++ and Javascript Programming Languages
+🌐 Learning Data Structures and Cloud Technologies
+🤝 Looking to help and collaboration with **Community Building, Code Projects & Open Source** :octocat:
+👥 Fascinated about tech communities
+💪 Do talk about DSA and Coding contests
 
 ## 💻 Tech Stack:
 
