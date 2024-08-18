@@ -3,11 +3,11 @@
 
 ## <img src="https://em-content.zobj.net/source/skype/289/man-technologist_1f468-200d-1f4bb.png" height="30px" width="30px" align="center"/> What I'm upto:
 
-💪 Proficient in C++ and Javascript Programming Languages
-🌐 Learning Data Structures and Cloud Technologies
-🤝 Looking to help and collaboration with **Community Building, Code Projects & Open Source** :octocat:
-👥 Fascinated about tech communities
-💪 Do talk about DSA and Coding contests
+💪 Hands-on experience with **ReactJs**, **NextJs**, **NodeJs** and **Databases**  
+🌐 Actively learning to build **scalable** and high-performing applications  
+🤝 Open to collaborating on Community Building, **Open Source**, **Hackathons** and **Code Projects**   
+💻 Always up for discussions on **DSA** and  **Coding contests**  
+
 
 ## 💻 Tech Stack:
 
@@ -44,7 +44,7 @@
     <img alt="Redis" src="https://img.shields.io/badge/Redis-darkred?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
 
-<!-- ## 👨‍💻 My Coding Profiles:
+ ## 👨‍💻 My Coding Profiles:
 <p align="left">
   <a href="https://leetcode.com/Sachin5115/" target="_blank">
       <img src="https://img.shields.io/badge/Leetcode-white?style=for-the-badge&logo=leetcode&logoColor=D14836?" align="center" alt="Leetcode" height=40 />
@@ -52,7 +52,7 @@
   <a href="https://auth.geeksforgeeks.org/user/sachin5115" target="_blank">
       <img src="https://img.shields.io/badge/Geeksforgeeks-white?style=for-the-badge&logo=geeksforgeeks&logoColor=339933" align="center" alt="GeeksForGeeks" height=40 />
   </a>
-</p> -->
+</p>
 
 ## 🌐 Let's Connect:
 
