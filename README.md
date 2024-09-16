@@ -15,7 +15,6 @@
     <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" />
     <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
     <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
-    <img alt="SQL" src="https://img.shields.io/badge/sql-%23007ACC.svg?&style=for-the-badge&logo=sql&logoColor=white" />
     <img alt="React" src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" />
     <img alt="Next.js" src="https://img.shields.io/badge/next.js-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white" />
     <img alt="React Native" src="https://img.shields.io/badge/react_native-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" />
