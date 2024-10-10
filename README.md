@@ -3,10 +3,9 @@
 
 ## <img src="https://em-content.zobj.net/source/skype/289/man-technologist_1f468-200d-1f4bb.png" height="30px" width="30px" align="center"/> What I'm upto:
 
-💪 Hands-on experience with **ReactJs**, **NextJs**, **NodeJs** and **Databases**  
-🌐 Actively learning to build **scalable** and high-performing applications  
-🤝 Open to collaborating on Community Building, **Open Source**, **Hackathons** and **Code Projects**   
-💻 Always up for discussions on **DSA** and  **Coding contests**  
+- Hands-on experience with **ReactJs**, **NextJs**, **NodeJs** and **Databases**  
+- Open to collaborating on Community Building, **Open Source**, **Hackathons** and **Code Projects**   
+- Always up for discussions on **DSA** and  **Coding contests**  
 
 
 ## 💻 Tech Stack:
@@ -28,22 +27,15 @@
 </p>
 
  ## 👨‍💻 My Coding Profiles:
-<p align="left">
-  <a href="https://leetcode.com/Sachin5115/" target="_blank">
-      <img src="https://img.shields.io/badge/Leetcode-white?style=for-the-badge&logo=leetcode&logoColor=D14836?" align="center" alt="Leetcode" height=40 />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/sachin5115" target="_blank">
-      <img src="https://img.shields.io/badge/Geeksforgeeks-white?style=for-the-badge&logo=geeksforgeeks&logoColor=339933" align="center" alt="GeeksForGeeks" height=40 />
-  </a>
-</p>
+[![Leetcopde](https://img.shields.io/badge/Leetcode-%23FFA116.svg?logo=Leetcode&logoColor=white)](https://leetcode.com/sachin5115/) 
+[![GFG](https://img.shields.io/badge/GeeksforGeeks-%2300C853.svg?logo=GeeksforGeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/sachin5115/practice/)
 
 ## 🌐 Let's Connect:
 
-[<img align="top" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sachin-kumar-203991224)
-[<img align="top" alt="Twitter" src="https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Sachin51151)
-[<img align="top" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/imsachin49)
-[<img align="top" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:sachin.kumar05115@gmail.com)
-<br><br>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/imsachin49) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachin-kumar-203991224/) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/Sachin51151) 
+[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=Gmail&logoColor=white)](mailto:sachin.kumar05115@gmail.com)
 
 ## 📈 GitHub Stats:
 
