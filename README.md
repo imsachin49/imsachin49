@@ -3,7 +3,8 @@
 
 ## <img src="https://em-content.zobj.net/source/skype/289/man-technologist_1f468-200d-1f4bb.png" height="30px" width="30px" align="center"/> What I'm upto:
 
-- Hands-on experience with **ReactJs**, **NextJs**, **NodeJs** and **Databases**  
+- Hands-on experience with **ReactJs**, **NextJs**, **NodeJs** and **Databases**
+- Learning **Golang** and diving deep into **System design**.
 - Open to collaborating on Community Building, **Open Source**, **Hackathons** and **Code Projects**   
 - Always up for discussions on **DSA** and  **Coding contests**  
 
