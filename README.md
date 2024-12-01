@@ -3,26 +3,22 @@
 
 ## <img src="https://em-content.zobj.net/source/skype/289/man-technologist_1f468-200d-1f4bb.png" height="30px" width="30px" align="center"/> What I'm upto:
 
-- Hands-on experience with **ReactJs**, **NextJs**, **NodeJs** and **Databases**
-- Learning **Golang** and diving deep into **System design**.
-- Open to collaborating on Community Building, **Open Source**, **Hackathons** and **Code Projects**   
-- Always up for discussions on **DSA** and  **Coding contests**  
-
+🌱 Ask me about **ReactJs**, **NodeJs** and **Databases**  
+⚡ Exploring the capabilities of **Golang** and diving deep into **System design**  
+👯 looking to collaborate with **Open Source Contributor**  
 
 ## 💻 Tech Stack:
 
 <p align="center"> 
     <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
     <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
-    <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-    <img alt="React" src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" />
+    <img alt="GO" src="https://img.shields.io/badge/GoLang-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
     <img alt="Next.js" src="https://img.shields.io/badge/next.js-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white" />
-    <img alt="React Native" src="https://img.shields.io/badge/react_native-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" />
-    <img alt="Tailwind CSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white" />
+    <img alt="React" src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" />
     <img alt="Redux" src="https://img.shields.io/badge/redux-%23764ABC.svg?&style=for-the-badge&logo=redux&logoColor=white" />
+    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B" />
     <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
     <img alt="Express" src="https://img.shields.io/badge/Express.js-%23404D59.svg?&style=for-the-badge&logo=express&logoColor=white" />
-    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B" />
     <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
     <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
