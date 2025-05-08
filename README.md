@@ -10,7 +10,7 @@
 <br />
 <br />
 
-Hi, I'm Sachin Kumar, a Full Stack Developer 🚀 from India. Currently, I'm a Software Engineer Intern at 🙍🏽‍♂️ [@Smallcase](https://smallcase.com/). I'm passionate about creative problem-solving and building products that truly make an impact. I thrive on crafting seamless user experiences and bringing ideas to life.
+Hi, I'm Sachin Kumar, a Full Stack Developer 🚀 from India. Currently, I'm a Software Engineer at 🙍🏽‍♂️ [@Smallcase](https://smallcase.com/). I'm passionate about creative problem-solving and building products that truly make an impact. I thrive on crafting seamless user experiences and bringing ideas to life.
 <br/>
 <br/>
 
