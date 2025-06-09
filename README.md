@@ -18,7 +18,7 @@ Hi, I'm Sachin Kumar, a Full Stack Developer 🚀 from India. Currently, I'm a S
 
 **Talking about Personal Stuffs:**
 - 🛠 Building tech with ReactJs, NodeJs, Golang, Javascript  
-- 💬 Ask me anything — I love solving problems and sharing what I know
+- 💬 AMA - I love solving problems and sharing what I know
 - ⚡ Fun Fact: Good code and great things both take time.
 - 📫 How to reach me: sachin.kumar05115@gmail.com  
 
