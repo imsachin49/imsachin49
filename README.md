@@ -10,17 +10,16 @@
 <br />
 <br />
 
-Hi, I'm Sachin Kumar, a Full Stack Developer 🚀 from India. Currently, I'm a Software Engineer at 🙍🏽‍♂️ [@Smallcase](https://smallcase.com/). I'm passionate about creative problem-solving and building products that truly make an impact. I thrive on crafting seamless user experiences and bringing ideas to life.
+Hi, I'm Sachin Kumar, a Full Stack Developer 🚀 from India. Currently, I'm a Software Engineer at 🙍🏽‍♂️ [@Smallcase](https://smallcase.com/). I’m passionate about solving real-world problems through code and building impactful, user-centric products. I thrive on crafting seamless user experiences and turning ideas into reality.
 <br/>
 <br/>
 
 <img align="right" height="340" width="400" alt="GIF" src="https://github.com/gujral1997/poteto/blob/master/nice.gif" />
 
 **Talking about Personal Stuffs:**
-- 🛠 Building with ReactJs, NodeJs, Golang, NodeJs, Javascript  
-- 👨🏻‍💻 I’m looking to collaborate on kick ass products  
-- 💬 Ask me about anything, I am happy to help  
-- ⚡️ Fun-Fact: Great things take time  
+- 🛠 Building tech with ReactJs, NodeJs, Golang, Javascript  
+- 💬 Ask me anything — I love solving problems and sharing what I know
+- ⚡ Fun Fact: Good code and great things both take time.
 - 📫 How to reach me: sachin.kumar05115@gmail.com  
 
 
