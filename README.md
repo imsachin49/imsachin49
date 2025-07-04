@@ -23,6 +23,8 @@ Hi, I'm Sachin Kumar, a Full Stack Developer 🚀 from India. Currently, I'm a S
 - 📫 How to reach me: sachin.kumar05115@gmail.com  
 
 
+
+<!-- 
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -34,6 +36,7 @@ Hi, I'm Sachin Kumar, a Full Stack Developer 🚀 from India. Currently, I'm a S
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 <code><img height="20" src="https://www.mongodb.com/assets/images/global/leaf.png"></code>
+-->
 <!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code> -->
 
 **My Coding Playgronds:**  
