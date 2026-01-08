@@ -37,12 +37,13 @@ Hi, I'm Sachin Kumar, a Full Stack Developer 🚀 from India. Currently, I'm a S
 <code><img height="20" width="20" src="https://www.mongodb.com/assets/images/global/leaf.png"></code>
 <!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code> -->
 
-
+<!-- 
 **My Coding Playgronds:**  
 
 <a href="https://leetcode.com/sachin5115">
     <img width="75" height="50" src="https://assets.leetcode.com/static_assets/public/images/LeetCode_Sharing.png">
 </a>
+-->
 
 <br/>
 <br/>
